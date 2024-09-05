@@ -1,0 +1,78 @@
+{
+    "participatingClubs": [
+        {
+            "currentStadium": "Etihad",
+            "currentPresident": "Mansour",
+            "players": [
+                {
+                    "nationality": "British",
+                    "playername": "Haaland",
+                    "position": "Forward",
+                    "age": 24
+                },
+                {
+                    "nationality": "British",
+                    "playername": "Foden",
+                    "position": "Winger",
+                    "age": 24
+                }
+            ],
+            "yearOfFoundation": 1900,
+            "name": "Man City",
+            "domesticChampions": 8,
+            "continentalChampions": 1
+        },
+        {
+            "currentStadium": "Old Trafford",
+            "currentPresident": "Racliffe",
+            "players": [{
+                "nationality": "British",
+                "playername": "Mainoo",
+                "position": "Midfielder",
+                "age": 20
+            }],
+            "yearOfFoundation": 1899,
+            "name": "Man United",
+            "domesticChampions": 13,
+            "continentalChampions": 3
+        },
+        {
+            "currentStadium": "Emirates",
+            "currentPresident": "Arteta",
+            "players": [],
+            "yearOfFoundation": 1901,
+            "name": "Arsenal",
+            "domesticChampions": 3,
+            "continentalChampions": 0
+        }
+    ],
+    "matchResults": [
+        {
+            "awayClub": "Man United",
+            "homeClub": "Man City",
+            "stadium": "Etihad",
+            "homeGoals": 0,
+            "awayGoals": 0
+        },
+        {
+            "awayClub": "Arsenal",
+            "homeClub": "Man City",
+            "stadium": "Emirates",
+            "homeGoals": 1,
+            "awayGoals": 0
+        },
+        {
+            "awayClub": "Man United",
+            "homeClub": "Arsenal",
+            "stadium": "Old Trafford",
+            "homeGoals": 1,
+            "awayGoals": 2
+        }
+    ],
+    "name": "Premier League",
+    "clubPoints": {
+        "Man United": 4,
+        "Arsenal": 0,
+        "Man City": 4
+    }
+}

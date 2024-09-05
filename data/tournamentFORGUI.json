@@ -1,0 +1,27 @@
+{
+    "participatingClubs": [{
+        "currentStadium": "Wembley",
+        "currentPresident": "Southgate",
+        "players": [
+            {
+                "nationality": "Argentinian",
+                "playername": "Messi",
+                "position": "Striker",
+                "age": 37
+            },
+            {
+                "nationality": "French",
+                "playername": "MBappe",
+                "position": "Winger",
+                "age": 27
+            }
+        ],
+        "yearOfFoundation": 1900,
+        "name": "England",
+        "domesticChampions": 1,
+        "continentalChampions": 0
+    }],
+    "matchResults": [],
+    "name": "My Tournament",
+    "clubPoints": {"England": 0}
+}
